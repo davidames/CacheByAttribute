@@ -15,8 +15,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CacheByAttribute.Glipmse", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CacheByAttribute.Test.Core", "Test.Core\CacheByAttribute.Test.Core.csproj", "{2AE5B63A-23F7-42B9-B8A3-FBCE47028F34}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CacheByAttribute.Test.MvcApplication", "Test.MvcApplication\CacheByAttribute.Test.MvcApplication.csproj", "{71F66F8B-3610-41E5-A253-1F5065DAAAAC}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -35,10 +33,6 @@ Global
 		{2AE5B63A-23F7-42B9-B8A3-FBCE47028F34}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2AE5B63A-23F7-42B9-B8A3-FBCE47028F34}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2AE5B63A-23F7-42B9-B8A3-FBCE47028F34}.Release|Any CPU.Build.0 = Release|Any CPU
-		{71F66F8B-3610-41E5-A253-1F5065DAAAAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{71F66F8B-3610-41E5-A253-1F5065DAAAAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{71F66F8B-3610-41E5-A253-1F5065DAAAAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{71F66F8B-3610-41E5-A253-1F5065DAAAAC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
