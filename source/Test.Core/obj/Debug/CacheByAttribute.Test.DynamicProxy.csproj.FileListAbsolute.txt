@@ -1,0 +1,13 @@
+C:\_Development\faboc\faboc\faboc.Test.StructureMap\bin\Debug\CacheByAttribute.Test.DynamicProxy.dll
+C:\_Development\faboc\faboc\faboc.Test.StructureMap\bin\Debug\CacheByAttribute.Test.DynamicProxy.pdb
+C:\_Development\faboc\faboc\faboc.Test.StructureMap\bin\Debug\CacheByAttribute.Core.dll
+C:\_Development\faboc\faboc\faboc.Test.StructureMap\bin\Debug\CacheByAttribute.DynamicProxy.dll
+C:\_Development\faboc\faboc\faboc.Test.StructureMap\bin\Debug\Castle.Core.dll
+C:\_Development\faboc\faboc\faboc.Test.StructureMap\bin\Debug\Moq.dll
+C:\_Development\faboc\faboc\faboc.Test.StructureMap\bin\Debug\CacheByAttribute.Core.pdb
+C:\_Development\faboc\faboc\faboc.Test.StructureMap\bin\Debug\CacheByAttribute.DynamicProxy.pdb
+C:\_Development\faboc\faboc\faboc.Test.StructureMap\bin\Debug\Castle.Core.xml
+C:\_Development\faboc\faboc\faboc.Test.StructureMap\bin\Debug\Moq.xml
+C:\_Development\faboc\faboc\faboc.Test.StructureMap\obj\Debug\CacheByAttribute.Test.DynamicProxy.csprojResolveAssemblyReference.cache
+C:\_Development\faboc\faboc\faboc.Test.StructureMap\obj\Debug\CacheByAttribute.Test.DynamicProxy.dll
+C:\_Development\faboc\faboc\faboc.Test.StructureMap\obj\Debug\CacheByAttribute.Test.DynamicProxy.pdb

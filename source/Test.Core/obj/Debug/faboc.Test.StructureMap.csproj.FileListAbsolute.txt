@@ -1,0 +1,8 @@
+C:\_Development\faboc\faboc\faboc.Test.StructureMap\bin\Debug\faboc.Test.StructureMap.dll
+C:\_Development\faboc\faboc\faboc.Test.StructureMap\bin\Debug\faboc.Test.StructureMap.pdb
+C:\_Development\faboc\faboc\faboc.Test.StructureMap\obj\Debug\faboc.Test.StructureMap.dll
+C:\_Development\faboc\faboc\faboc.Test.StructureMap\obj\Debug\faboc.Test.StructureMap.pdb
+C:\_Development\faboc\faboc\faboc.Test.StructureMap\bin\Debug\faboc.Test.StructureMap.dll.CodeAnalysisLog.xml
+C:\_Development\faboc\faboc\faboc.Test.StructureMap\bin\Debug\faboc.Test.StructureMap.dll.lastcodeanalysissucceeded
+C:\_Development\faboc\faboc\faboc.Test.StructureMap\bin\Debug\Moq.dll
+C:\_Development\faboc\faboc\faboc.Test.StructureMap\bin\Debug\Moq.xml

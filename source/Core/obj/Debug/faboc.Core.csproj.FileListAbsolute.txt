@@ -1,0 +1,6 @@
+C:\_Development\faboc\faboc\faboc.core\bin\Debug\faboc.Core.dll
+C:\_Development\faboc\faboc\faboc.core\bin\Debug\faboc.Core.pdb
+C:\_Development\faboc\faboc\faboc.core\obj\Debug\faboc.Core.dll
+C:\_Development\faboc\faboc\faboc.core\obj\Debug\faboc.Core.pdb
+C:\_Development\faboc\faboc\faboc.core\bin\Debug\faboc.Core.dll.CodeAnalysisLog.xml
+C:\_Development\faboc\faboc\faboc.core\bin\Debug\faboc.Core.dll.lastcodeanalysissucceeded

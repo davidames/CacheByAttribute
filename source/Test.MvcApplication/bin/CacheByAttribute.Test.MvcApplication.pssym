@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Symbols xmlns="http://schemas.postsharp.org/2.0/symbols">
+  <Class Class="#1=T:[CacheByAttribute.Core]CacheByAttribute.CacheRemoveAllFromRegionAttribute">
+    <Instance Declaration="#2=M:[CacheByAttribute.Test.MvcApplication]CacheByAttribute.Test.MvcApplication.Controllers.HomeController::RemoveAllFromRegion()" Id="c32d7a7c01f3138c">
+      <Target>
+        <JoinPoint Advising="#1" Description="#3=Wrapped by advice(s) OnEntry, OnSuccess, OnException, OnExit" />
+      </Target>
+    </Instance>
+  </Class>
+  <Class Class="#4=T:[CacheByAttribute.Core]CacheByAttribute.CacheAttribute">
+    <Instance Declaration="#5=M:[CacheByAttribute.Test.MvcApplication]CacheByAttribute.Test.MvcApplication.Controllers.HomeController::DoSomething()" Id="c32d7a7c2274d47b">
+      <Target>
+        <JoinPoint Advising="#4" Description="#3" />
+      </Target>
+    </Instance>
+    <Instance Declaration="#6=M:[CacheByAttribute.Test.MvcApplication]CacheByAttribute.Test.MvcApplication.Controllers.HomeController::DoSomethingElse()" Id="c32d7a7c0a55c487">
+      <Target>
+        <JoinPoint Advising="#4" Description="#3" />
+      </Target>
+    </Instance>
+  </Class>
+</Symbols>
