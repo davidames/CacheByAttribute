@@ -49,7 +49,12 @@ namespace CacheByAttribute.Core.CacheProviders
                 throw new ArgumentNullException(region, "You cannot specify the default (null) region");
 
             Lazy<MemoryCache> retValue = null;
+            MemoryCache cacheRegion = GetCacheRegion(region);
+
             CacheRegions.TryRemove(region, out retValue);
+
+            if (cacheRegion != null)
+                cacheRegion.Dispose();
         }
 
 
